@@ -22,7 +22,7 @@ public class Main {
 		s1.setName("rahukl");
 		s1.setAddress("mumbai");
 //	   os.save(s);
-
+		System.out.println("sucess");
 		os.update(s1);
 		/// os.get(1, id);
 		bt.commit();
